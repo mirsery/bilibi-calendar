@@ -1,0 +1,5 @@
+server:
+  port: 8080
+  maxHttpHeaderSize: 10240000
+  tomcat:
+    maxHttpHeaderSize: 10240000
